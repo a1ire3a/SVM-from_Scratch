@@ -1,0 +1,8 @@
+Resources:
+https://gist.github.com/bigodines/1061811/ba95b9a355adcd5ec7790fcd869dedbb4138d4f8
+https://machinelearningmastery.com/method-of-lagrange-multipliers-the-theory-behind-support-vector-machines-part-3-implementing-an-svm-from-scratch-in-python/
+https://medium.com/@sathvikchiramana/svm-dual-formulation-7535caa84f17
+https://cvxopt.org/userguide/coneprog.html
+https://www.machinecurve.com/index.php/2020/11/11/creating-one-vs-rest-and-one-vs-one-svm-classifiers-with-scikit-learn/
+https://towardsdatascience.com/stop-using-one-vs-one-or-one-vs-rest-for-multi-class-classification-tasks-31b3fd92cb5e
+http://www.adeveloperdiary.com/data-science/machine-learning/support-vector-machines-for-beginners-kernel-svm/
